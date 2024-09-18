@@ -2,7 +2,7 @@
 // Function triggered when client clicks [Verify]
 function verifyCaptcha() {
 
-    alert("Verified!");
+    alert("Insert that bios beep when you type an invalid key press in here");
     closeVerifyWindow();
 
 }
